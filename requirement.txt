@@ -1,0 +1,2 @@
+pip install lxml_html_clean
+pip install --upgrade requests-html pyppeteer
