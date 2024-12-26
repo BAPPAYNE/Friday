@@ -8,7 +8,5 @@ def stockPrice(query="Binance coin price"):
     data = soup.find('div',class_='BNeawe iBp4i AP7Wnd')
     print(data.text)
 
-
-
 stockPrice()
 
