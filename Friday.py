@@ -1,5 +1,9 @@
 from TakeCommand import speak,takeCommand
 
+<<<<<<< HEAD
+=======
+    
+>>>>>>> a8490130da6143f98e5cb5b7fdd5fc4650f4cb82
 if __name__ =="__main__":
     while True:
         query = takeCommand().lower()
